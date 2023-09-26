@@ -7,7 +7,7 @@
 - Visual Studio Community 2022
 - Swagger.UI
 - Visual Studio Code
-- Git/Github/Gitlab
+- Git
 
 ***Technology:
 - .NET core 6.0
@@ -21,6 +21,6 @@
 - SendMail SMTP
 - User Account Management
 - Authentication Role Claim Login Register
-- Authentication Role
+- Authentication
   
 
