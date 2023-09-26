@@ -1,0 +1,4 @@
+Page Url:
+
+https://book-directonline.com/properties/furamaresortdanangdirect?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=VND&checkInDate=2023-05-31&checkOutDate=2023-06-01&trackPage=no
+

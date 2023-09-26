@@ -1,0 +1,260 @@
+﻿++Solution 'be' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:be.sln
+++be
+i:{00000000-0000-0000-0000-000000000000}:be
+++Connected Services 
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>521
+++Dependencies
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>520
+++Properties
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\properties\
+++Controllers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\
+++ActionController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\actioncontroller.cs
+++AdminController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\admincontroller.cs
+++BookingController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\bookingcontroller.cs
+++GuestController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\guestcontroller.cs
+++ManageBookingController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\managebookingcontroller.cs
+++ManageGuestController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\manageguestcontroller.cs
+++ManagerController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\managercontroller.cs
+++ReceptionController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\receptioncontroller.cs
+++RoleController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\rolecontroller.cs
+++StatisticController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\statisticcontroller.cs
+++UserController.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\controllers\usercontroller.cs
+++Helpers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\helpers\
+++Models
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\
+++BarChart.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\barchart.cs
+++Booking.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\booking.cs
+++BookingDetail.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\bookingdetail.cs
+++Category.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\category.cs
+++CollumChart.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\collumchart.cs
+++Data.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\data.cs
+++DbFourSeasonHotelContext.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\dbfourseasonhotelcontext.cs
+++Role.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\role.cs
+++Room.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\room.cs
+++RoomImg.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\roomimg.cs
+++Statistic.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\statistic.cs
+++User.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\user.cs
+++UserStatus.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\models\userstatus.cs
+++Repositories
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\
+++BookingRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\bookingrepository\
+++BookingRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\bookingrepository\bookingrepository.cs
+++IBookingRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\bookingrepository\ibookingrepository.cs
+++CategoryRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\categoryrepository\
+++CategoryRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\categoryrepository\categoryrepository.cs
+++ICategoryRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\categoryrepository\icategoryrepository.cs
+++ManagerRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\managerrepository\
+++IManagerRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\managerrepository\imanagerrepository.cs
+++ManagerRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\managerrepository\managerrepository.cs
+++ReceptionRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\receptionrepository\
+++IReceptionRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\receptionrepository\ireceptionrepository.cs
+++ReceptionRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\receptionrepository\receptionrepository.cs
+++RoleRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\rolerepository\
+++IRoleRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\rolerepository\irolerepository.cs
+++RoleRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\rolerepository\rolerepository.cs
+++RoomImgRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\roomimgrepository\
+++IRoomImgRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\roomimgrepository\iroomimgrepository.cs
+++RoomImgRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\roomimgrepository\roomimgrepository.cs
+++RoomRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\roomrepository\
+++IRoomRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\roomrepository\iroomrepository.cs
+++RoomRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\roomrepository\roomrepository.cs
+++StatisticRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\statisticrepository\
+++IStatisticRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\statisticrepository\istatisticrepository.cs
+++StatisticRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\statisticrepository\statisticrepository.cs
+++UserRepository
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\userrepository\
+++IUserRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\userrepository\iuserrepository.cs
+++UserRepository.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\repositories\userrepository\userrepository.cs
+++Services
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\
+++BookingService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\bookingservice\
+++BookingService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\bookingservice\bookingservice.cs
+++IBookingService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\bookingservice\ibookingservice.cs
+++CategoryService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\categoryservice\
+++CategoryService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\categoryservice\categoryservice.cs
+++ICategoryService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\categoryservice\icategoryservice.cs
+++ManagerService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\managerservice\
+++IManagerService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\managerservice\imanagerservice.cs
+++ManagerService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\managerservice\managerservice.cs
+++OtherService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\otherservice\
+++EmailService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\otherservice\emailservice.cs
+++ReceptionService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\receptionservice\
+++IReceptionService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\receptionservice\ireceptionservice.cs
+++ReceptionService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\receptionservice\receptionservice.cs
+++RoleService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roleservice\
+++IRoleService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roleservice\iroleservice.cs
+++RoleService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roleservice\roleservice.cs
+++RoomImgService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roomimgservice\
+++IRoomImgService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roomimgservice\iroomimgservice.cs
+++RoomImgService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roomimgservice\roomimgservice.cs
+++RoomService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roomservice\
+++IRoomService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roomservice\iroomservice.cs
+++RoomService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\roomservice\roomservice.cs
+++StatisticService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\statisticservice\
+++IStatisticService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\statisticservice\istatisticservice.cs
+++StatisticService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\statisticservice\statisticservice.cs
+++UserService
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\userservice\
+++IUserService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\userservice\iuserservice.cs
+++UserService.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\services\userservice\userservice.cs
+++appsettings.json
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\appsettings.json
+++Program.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\program.cs
+++No service dependencies discovered
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>522
+++Analyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:analyzers
+++Frameworks
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:frameworks
+++Packages
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:packages
+++launchSettings.json
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\properties\launchsettings.json
+++EmailHelper.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\helpers\emailhelper.cs
+++Helper.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\helpers\helper.cs
+++RandomString.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\helpers\randomstring.cs
+++ValidateHelper.cs
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\helpers\validatehelper.cs
+++appsettings.Development.json
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\users\khuyenhtb\.nuget\packages\microsoft.entityframeworkcore.analyzers\7.0.5\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\users\khuyenhtb\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\program files\dotnet\sdk\6.0.100\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:c:\users\khuyenhtb\.nuget\packages\system.text.json\8.0.0-preview.3.23174.8\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:d:\fpt_fa\mock1\main\fourseasons\be\be\microsoft.netcore.app
+++BCrypt.Net-Next (4.0.3)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>540
+++ClosedXML (0.101.0)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>546
+++EntityFramework (6.4.4)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>544
+++MailKit (4.0.0)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>545
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.15)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>542
+++Microsoft.AspNetCore.Cors (2.2.0)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>538
+++Microsoft.AspNetCore.Mvc.Cors (2.2.0)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>541
+++Microsoft.EntityFrameworkCore (7.0.5)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>533
+++Microsoft.EntityFrameworkCore.Design (7.0.5)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>535
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.5)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>534
+++Microsoft.EntityFrameworkCore.Tools (7.0.5)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>543
+++Microsoft.Extensions.Configuration.Json (8.0.0-preview.3.23174.8)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>539
+++Swashbuckle.AspNetCore (6.2.3)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>536
+++Swashbuckle.AspNetCore.Filters (7.0.6)
+i:{5374be41-cf0f-4ff3-aadb-8dbf4933f6fd}:>537
