@@ -1,5 +1,5 @@
 # FourSeason
-- Project is a Mock Project Final FPT Fresher
+- Project is a Mock Project 
 - Team size: 6
 
 ***Tools:
